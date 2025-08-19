@@ -16,7 +16,7 @@ Can be extended to an interactive web app (Streamlit/Flask)
 📂 Project Structure
 spam-email-classifier/
 │── data/
-│   └── spam.csv              # Dataset (Kaggle SMS Spam Collection)
+│   └── spam.csv              # Dataset 
 │
 │── src/
 │   └── spam_classifier.py    # Main Python code
@@ -26,7 +26,7 @@ spam-email-classifier/
 
 ⚙️ Installation
 # Clone the repository
-git clone https://github.com/<your-username>/spam-email-classifier.git
+git clone https://github.com/<varmaven>/spam-email-classifier.git
 cd spam-email-classifier
 
 # Install dependencies
