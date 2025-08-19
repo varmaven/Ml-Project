@@ -24,12 +24,4 @@ spam-email-classifier/
 │── README.md # Documentation
 │── requirements.txt # Dependencies
 
-Tech Stack
 
-Python
-
-Pandas
-
-Scikit-learn
-
-NumPy
